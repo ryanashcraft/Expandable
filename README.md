@@ -46,8 +46,8 @@ dependencies: [
 Below is an example of how to use the Expandable view in SwiftUI.
 
 ```swift
+import Expandable
 import SwiftUI
-import ExpandableView
 
 struct ContentView: View {
     var body: some View {
